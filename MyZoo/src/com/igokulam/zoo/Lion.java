@@ -10,6 +10,7 @@ public class Lion extends Animal {
 		// TODO Auto-generated method stub
 		return Constants.PICTURE_FILE_LION;
 	}
+	
 
 	@Override
 	public void sound() {
