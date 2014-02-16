@@ -1,6 +1,6 @@
 package com.igokulam.zoo;
 
-public class Lion extends Animal {
+public class Lion extends Felida {
 	
 	public Lion(String aName) {
 		super(Constants.ANIMAL_TYPE_LION, aName);
